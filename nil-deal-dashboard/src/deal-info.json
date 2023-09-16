@@ -1,0 +1,132 @@
+[
+    {
+      "url": "https://www.example.com/",
+      "title": "Example Domain",
+      "company": "Example"
+    },
+    {
+      "url": "https://www.google.com/",
+      "title": "Google",
+      "company": "Google"
+    },
+    {
+      "url": "https://www.wikipedia.org/",
+      "title": "Wikipedia",
+      "company": "Wikipedia"
+    },
+    {
+        "url": "https://www.walmartcreator.com/splash?ebebhghdefhbdjldreibbfljnbirebktvvuvighttigg&gclid=CjwKCAjwgZCoBhBnEiwAz35Rwj-GyQLv-VdUb-bs4mWJF3b-lSfCZkix6gMOnlp9AuAmZr214t2UWhoCmDMQAvD_BwE&gclsrc=aw.ds",
+        "title": "Walmart Creator Program",
+        "company": "Walmart"
+    },
+    {
+        "url": "https://lululemon-connect.creatoriq.com/connect#welcome",
+        "title": "Lululemon Creator Network",
+        "company": "Lululemon"
+    },
+    {
+        "url": "https://www.lenovo.com/us/en/studentinfluencer/",
+        "title": "Lenovo Influencer Program",
+        "company": "Lenovo"
+    },
+    {
+        "url": "https://cellucor.com/pages/ambassadors",
+        "title": "C4 Energy/ Cellucor Ambassador" ,
+        "company": "Cellucor"
+    },
+    {
+        "url": "https://www.heydude.com/pages/affiliate-program",
+        "title": "Heydude Affiliate Program",
+        "company": "Heydude"
+    },
+    {
+        "url": "https://www.oakley.com/en-us/company/affiliate-program",
+        "title": "Oakley Affiliate Program",
+        "company": "Oakley"
+    },
+    {
+        "url": "https://www.liquid-iv.com/pages/liv-college-athlete-program",
+        "title": "LIV College Athlete Program",
+        "company": "Liquid IV"
+    },
+    {
+        "url": "https://www.ethika.com/nil",
+        "title": "ETHIKA COLLEGE NIL APPLICATION",
+        "company": "Ethika"
+    },
+    {
+        "url": "https://thebeehive.bumble.com/ambassadors-bumble-honey",
+        "title": "Bumble Honey",
+        "company": "Bumble"
+    },
+    {
+        "url": "https://jobs.redbull.com/us-en/microsite/student-marketeer",
+        "title": "Red Bull Student Marketer",
+        "company": "Red Bull"
+    },
+    {
+        "url": "https://www.celsius.com/ambassador/",
+        "title": "Celsius Brand Ambassadors",
+        "company": "Celsius"
+    },
+    {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSes_jYY7tbAdK_IJtLhB88TbK1kH-CGmkqdQARP5dqe-qzKAA/viewform?pli=1",
+        "title": "Athletes and Ambassadors (The Hive)",
+        "company": "Honey Stinger"
+    },
+    {
+        "url": "https://essentiawater.com/influencer-application/",
+        "title": "Influencer",
+        "company": "Essentia Water"
+    },
+    {
+        "url": "https://vuoriclothing.com/pages/v1-community-program",
+        "title": "V1 Community Program",
+        "company": "Vuori Clothing"
+    },
+    {
+        "url": "https://southerntide.com/pages/st-ambassadors",
+        "title": "Southern Tide Ambassador",
+        "company": "Southern Tide"
+    },
+    {
+        "url": "https://earthbrands.earth/pages/ambassador-program",
+        "title": "Earth Cup Ambassador Program",
+        "company": "Earth Cups"
+    },
+    {
+        "url": "https://hyperice.com/about-us/#athletes",
+        "title": "Hyperice Athletes",
+        "company": "Hyperice"
+    },
+    {
+        "url": "https://gfuel.com/pages/ambassador",
+        "title": "GFUEL Ambassador",
+        "company": "GFUEL"
+    },
+    {
+        "url": "https://athleticbrewing.com/pages/affiliates",
+        "title": "Athletic Brewing Athletes",
+        "company": "Athletic Brewing"
+    },
+    {
+        "url": "https://www.getgrinds.com/pages/influencer-terms-conditions",
+        "title": "Social Influencer and Athletes Program",
+        "company": "GR1NDS Coffee Pouches"
+    },
+    {
+        "url": "https://www.nobullproject.com/pages/nobull-affiliate-partner-program",
+        "title": "NOBULL Affiliate Program",
+        "company": "NOBULL"
+    },
+    {
+        "url": "https://www.grammarly.com/affiliates",
+        "title": "grammarly Affiliate",
+        "company": "grammarly"
+    },
+    {
+        "url": "https://drinkag1.com/partners/en",
+        "title": "AG1 Athlete",
+        "company": "Athletic Greens"
+    }
+  ]
