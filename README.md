@@ -1,7 +1,7 @@
-# vt-hacks-11
+# Kickstart NIL | vt-hacks-11 
 Project for VTHacks11.
 
-DOCUMENTATION: 
+DOCUMENTATION: https://harrys-documentation.gitbook.io/nil-deal-scraper/
 
 Name, image, and likeness opportunity dashboard for student-athletes.
 
