@@ -1,20 +1,5 @@
 [
     {
-      "url": "https://www.example.com/",
-      "title": "Example Domain",
-      "company": "Example"
-    },
-    {
-      "url": "https://www.google.com/",
-      "title": "Google",
-      "company": "Google"
-    },
-    {
-      "url": "https://www.wikipedia.org/",
-      "title": "Wikipedia",
-      "company": "Wikipedia"
-    },
-    {
         "url": "https://www.walmartcreator.com/splash?ebebhghdefhbdjldreibbfljnbirebktvvuvighttigg&gclid=CjwKCAjwgZCoBhBnEiwAz35Rwj-GyQLv-VdUb-bs4mWJF3b-lSfCZkix6gMOnlp9AuAmZr214t2UWhoCmDMQAvD_BwE&gclsrc=aw.ds",
         "title": "Walmart Creator Program",
         "company": "Walmart"
